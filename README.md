@@ -1,1 +1,1 @@
-# WWRTS
+Multiplayer Real Time Strategy
